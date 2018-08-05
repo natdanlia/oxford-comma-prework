@@ -7,6 +7,9 @@
 3. Convert data types
 
 ## Converting Types
+cool_nums.each do |x| 
+    x + 1
+  end
 
 In Ruby, there are a few methods available to us for converting data types. For example, it is possible to convert a string to an array, an array into a string, or a range into an array, among other conversions. You can learn more about conversion [here](http://www.dotnetperls.com/convert-ruby), but for now we'll just take a look at a few. 
 
